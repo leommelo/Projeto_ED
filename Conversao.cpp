@@ -10,7 +10,7 @@ struct trade{
     char code [50];
     char paisCode [10];
     char productType [50];
-    double valor;
+    long double valor;
     char status [10];
 };
 
