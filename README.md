@@ -1,7 +1,7 @@
 # Relatório do Projeto Prático de ED
 # Checkpoint 1
 
-# # Objetivos:
+## Objetivos:
 
 Implementar um sistema que converta um arquivo CSV em binário, e em
 seguida criar um sistema que permita a sua alteração em posições específicas,
