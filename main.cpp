@@ -174,7 +174,7 @@ int main(){
 
         do {
             try{
-                cout << "1: Mostrar os registros\n2: Inserir um Registro\n3: Editar um registro\n4: Trocar Registros de poisições\n0: Sair" << endl << endl;
+                cout << "1: Mostrar os registros\n2: Inserir um Registro\n3: Editar um registro\n4: Trocar Registros de posições\n0: Sair" << endl << endl;
                 cin >> h;
 
                 switch (h){
